@@ -1,0 +1,4 @@
+dataset/
+lightning_logs/
+predictions/
+.DS_Store/
